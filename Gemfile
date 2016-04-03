@@ -32,7 +32,7 @@ gem 'paperclip', '~> 4.3', '>= 4.3.6'
 #bootstrap
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'sass-rails', '~> 5.0', '>= 5.0.4'
-#gem 'simple_form'
+gem 'simple_form'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
