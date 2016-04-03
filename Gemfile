@@ -35,6 +35,8 @@ gem 'sass-rails', '~> 5.0', '>= 5.0.4'
 gem 'simple_form'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+#for search
+gem 'searchkick', '~> 1.2', '>= 1.2.1'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
