@@ -77,5 +77,5 @@ Rails.application.configure do
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
   # devise for prodution 
-  #config.action_mailer.default_url_options = { :host => '' }
+  config.action_mailer.default_url_options = { :host => 'https://maimoviereview.herokuapp.com' }
 end
